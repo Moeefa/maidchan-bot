@@ -1,0 +1,11 @@
+h1, p, span, label, i {
+  box-sizing: border-box;
+  color: white;
+}
+
+body, html {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  background: #222;
+  height: 100%;
+  width: 100%;
+}

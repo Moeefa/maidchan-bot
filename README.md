@@ -1,1 +1,0 @@
-# maidchan-bot
